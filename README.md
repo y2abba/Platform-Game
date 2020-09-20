@@ -1,3 +1,5 @@
+![alt text](https://github.com/y2abba/Platform-Game/blob/master/platform%20game.png?raw=true)
+
 PROJECT TITLE: Internet Escape
 PURPOSE OF PROJECT: To have fun! (and demonstrate Java and OOP skills)
 VERSION or DATE: 2018-06-14
